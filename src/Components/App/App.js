@@ -10,13 +10,10 @@ function App() {
               <div className="App">
               {/**<!-- Add a SearchBar component -->**/}
               <SearchBar />
-              <h2>Search Component</h2>
                 <div className="App-playlist">
                   {/**<!-- Add a SearchResults component -->
                   <!-- Add a Playlist component -->**/}
-                  <h2>Search Results</h2>
                   <SearchResults />
-                  <h2>Playlist component</h2>
                   <Playlist />
                 </div>
               </div>
